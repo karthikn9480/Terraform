@@ -1,6 +1,6 @@
 provider "aws" {
-    access_key = "AKIAZQ3DPIFAON35RK4K" //update
-    secret_key = "4kQDRPr1eMY7/973UN3VZltEfI9GfGcaWxC8R0tr"  //update
+    access_key = "Enter your key" //update
+    secret_key = "Enter your key"  //update
     region = "us-east-1" //update
 }
 resource "aws_instance" "web" {
